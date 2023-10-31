@@ -28,8 +28,8 @@ export default {
     setup () {
         const state = reactive({
             count: 0,
-            // host: "http://ec2-13-209-68-214.ap-northeast-2.compute.amazonaws.com:7771",
-            host: "http://localhost:7771",
+            host: "http://ec2-54-180-103-118.ap-northeast-2.compute.amazonaws.com:7771",
+            //host: "http://localhost:7771",
             title: '',
             subject: '',
             contents: ''
